@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html>
-    
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Terms & Conditions</title>
-        <meta name="description" content="An interactive getting started guide for Brackets.">
-        <link rel="stylesheet" href="main.css">
-    </head>
-    <body>
-        
-        <h1>Terms & Conditions</h1>
-        <h2>Axiom IT PSG Contest</h2>
-        <h3>1-21 September 2020</h3>
-        <p>
-            Terms & Conditions:  
+Terms & Conditions:  
 
 This contest is open to clients who have purchased products under the PSG scheme from Axiom IT Solutions and are already in possession of their purchase. 
 
