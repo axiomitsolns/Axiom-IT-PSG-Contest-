@@ -3,13 +3,11 @@ Terms & Conditions:
 This contest is open to clients who have purchased products under the PSG scheme from Axiom IT Solutions and are already in possession of their purchase. 
 
 Axiom IT Solutions reserves the right to verify the eligibility of each participant  
-        </p>
-        
 
 <p>
     1. The contest is “Axiom IT PSG Contest “and the contest period is from 1 September 2020 to 21 September 2020, 12PM local time. One winner will be announced on Friday, 25 September 2020. </p>
 
-        <p> 2. Prizes are as follows:  
+<p> 2. Prizes are as follows:  
 
 Microsoft Surface Earbuds (SRP $300)  
 
@@ -35,7 +33,7 @@ Winning post will be featured as Axiom IT’s PSG Success Story of the Month.  <
 
 <p> - One (1) winner will be determined based on likes on their post by 21 September 2020 AT 12:00pm. The winner will be announced on the Axiom IT Facebook page on 25 September 2020.  </p>
 
- <p> - The winner will be contacted via Facebook direct message after the announcement.  </p>
+<p> - The winner will be contacted via Facebook direct message after the announcement.  </p>
 
 <p> - Each prize is awarded conditionally upon acceptance and if a winner is unable to be contacted within 7 days upon the announcement of the winner, a supplementary winner may be selected at Axiom IT’s discretion. </p>
 
@@ -47,9 +45,9 @@ Winning post will be featured as Axiom IT’s PSG Success Story of the Month.  <
 
 <p> - By joining this contest, participants consent to and grant Axiom IT Solutions the right to use the contest submission (images/videos/caption) for marketing, promotion, and/or advertisement purposes.  </p>
 
-        <p> - Axiom IT Solution’s decision of the contest results is final. </p>  
+<p> - Axiom IT Solution’s decision of the contest results is final. </p>  
 
 <p> - Axiom IT Solutions reserves the right to suspend, cancel, or amend the promotion and/or revise these terms and conditions at any given time without prior notice. By continuing to take part in the contest after any revision of these terms and conditions, each participant shall be deemed to have agreed to any such new or amended terms. </p>
 
-    </body>
+</body>
 </html>
